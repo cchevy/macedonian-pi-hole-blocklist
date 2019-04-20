@@ -1,11 +1,10 @@
-#  Last Update: Sat Apr 20 11:47:51 EDT 2019
+#  Last Update: Sat Apr 20 21:47:51 CET 2019
 #  
 #  Blacklist compiled by @cchevymk
 #  
 #  You may freely use, copy, and redistribute this blacklist in any manner you like.
 # 
 (^|\.)10bet\.com$
-(^|\.)Alb\.reddit\.com$
 (^|\.)adexchange\.mk$
 (^|\.)adform\.net$
 (^|\.)adocean\.pl$
@@ -53,9 +52,5 @@
 (^|\.)smartadserver\.com$
 (^|\.)taboola\.com$
 (^|\.)vionservices\.com$
-Ads.kajgana com
-Eadsrv.com
 googleadservices.com
 googlesyndication.com
-ireklama.mk
-ads.trendolend.mk
