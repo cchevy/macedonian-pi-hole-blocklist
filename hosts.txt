@@ -24,7 +24,8 @@
 (^|\.)ads\.sport1\.mk$
 (^|\.)ads\.sportclub\.mk$
 (^|\.)ads\.tocka\.com\.mk$
-(^|\.)ads\.trendolend\.mk$
+ads.trendolend.mk
+(^|\.)adserver\.neotel\.mk$
 (^|\.)adserver\.mk$
 (^|\.)amazon-adsystem\.com$
 (^|\.)aplikacii\.com$
