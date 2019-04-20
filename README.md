@@ -1,6 +1,6 @@
 # Macedonian Pi-hole Blocklist
 
-This is list for Pi-hole (https://pi-hole.net) to block unwanted domains that serve ads on Macedonian websites.
+This is a Pi-hole (https://pi-hole.net) list to block unwanted domains that serve ads on Macedonian websites.
 
 Anyone can help expand this list.  
 
