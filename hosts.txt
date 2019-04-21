@@ -1,4 +1,4 @@
-#  Last Update: Sun Apr 21 22:38:06 CET 2019
+#  Last Update: Sun Apr 21 22:25:06 CET 2019
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -65,6 +65,7 @@ mgid.com
 midas-network.com
 mkkeepaneyegde.adocean.pl
 net-ads.mk
+panel.ads.com.mk
 r.denar.mk
 reklami.daily.mk
 reklami.gbccom.com.mk
@@ -76,4 +77,5 @@ smartadserver.com
 taboola.com
 vdads2019.com
 vionservices.com
+www.ads.it.mk
 www.midas-network.com
