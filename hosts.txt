@@ -1,4 +1,4 @@
-#  Last Update: Sun Apr 21 22:25:06 CET 2019
+#  Last Update: Sun Apr 21 22:42:06 CET 2019
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -10,6 +10,7 @@ acadv.net
 adexchange.mk
 adform.net
 adocean.pl
+advertiseserve.com
 ads.1cm.com.mk
 ads.365.mk
 ads.com.mk
