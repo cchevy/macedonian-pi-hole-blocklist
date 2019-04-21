@@ -67,3 +67,4 @@ relay-mk.ads.httpool.com
 ads.kanal77.mk
 ads.it.mk
 ads.skopjeinfo.mk
+midas-network.com
