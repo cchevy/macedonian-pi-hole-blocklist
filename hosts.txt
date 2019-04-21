@@ -60,3 +60,4 @@ res.cloudinary.com
 keepaneyegdemk.hit.gemius.pl
 mkkeepaneyegde.adocean.pl
 ads.foxit.mk
+vdads2019.com
