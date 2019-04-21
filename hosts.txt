@@ -64,6 +64,7 @@ midas-network.com
 mkkeepaneyegde.adocean.pl
 net-ads.mk
 r.denar.mk
+reklami.daily.mk
 reklami.gbccom.com.mk
 relay-mk.ads.httpool.com
 res.cloudinary.com
