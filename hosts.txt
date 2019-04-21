@@ -7,6 +7,7 @@
 10bet.com
 adexchange.mk
 a.sitel.com.mk
+ads.1cm.com.mk
 adform.net
 adocean.pl
 ads.365.mk
@@ -61,3 +62,4 @@ keepaneyegdemk.hit.gemius.pl
 mkkeepaneyegde.adocean.pl
 ads.foxit.mk
 vdads2019.com
+net-ads.mk
