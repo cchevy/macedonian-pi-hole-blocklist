@@ -68,3 +68,5 @@ ads.kanal77.mk
 ads.it.mk
 ads.skopjeinfo.mk
 midas-network.com
+live.acads.net
+ads.emedia.mk
