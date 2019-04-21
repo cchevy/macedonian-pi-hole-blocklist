@@ -72,3 +72,4 @@ live.acads.net
 ads.emedia.mk
 www.midas-network.com
 ads.deca.mk
+ads.fashionel.mk
