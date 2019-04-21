@@ -51,8 +51,6 @@ easyads.bg
 easyplatform.com
 gemius.pl
 googleadservices.com
-googleadservices.com
-googlesyndication.com
 googlesyndication.com
 httpool.com
 httpool.com.mk
