@@ -65,3 +65,4 @@ vdads2019.com
 net-ads.mk
 relay-mk.ads.httpool.com
 ads.kanal77.mk
+ads.it.mk
