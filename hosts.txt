@@ -1,4 +1,4 @@
-#  Last Update: Sun Apr 21 22:42:06 CET 2019
+#  Last Update: Sun Apr 24 12:26:06 CET 2019
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -71,7 +71,6 @@ r.denar.mk
 reklami.daily.mk
 reklami.gbccom.com.mk
 relay-mk.ads.httpool.com
-res.cloudinary.com
 s2blosh.com
 serving-sys.com
 smartadserver.com
