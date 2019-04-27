@@ -8,6 +8,8 @@
 acadv.net
 adexchange.mk
 adform.net
+adservice.google.pl
+adservice.google.mk
 adocean.pl
 adservice.google.com
 advertiseserve.com
