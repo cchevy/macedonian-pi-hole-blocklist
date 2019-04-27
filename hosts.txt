@@ -31,6 +31,7 @@ ads.kanal77.mk
 ads.lokalno.mk
 ads.mkd.mk
 ads.press24.mk
+ads.programattik.com
 ads.skopjeinfo.mk
 ads.sport1.mk
 ads.sportclub.mk
@@ -49,7 +50,9 @@ certify.alexametrics.com
 certify-js.alexametrics.com
 clevernt.com
 clickattack.mk
+cm.g.doubleclick.net
 coinmedia.tk
+d.agkn.com
 doubleclick.net
 eadsrv.com
 easyads.bg
@@ -60,6 +63,7 @@ googleadservices.com
 googlesyndication.com
 httpool.com
 httpool.com.mk
+ib.adnxs.com
 images.taboola.com
 ireklama.mk
 keepaneye.mk
@@ -67,6 +71,7 @@ keepaneyegdemk.hit.gemius.pl
 live.acads.net
 live.acadv.net
 loadm.exelator.com
+load77.exelator.com
 marketing.centar.com.mk
 match.adsrvr.org
 match.taboola.com
@@ -80,14 +85,18 @@ r.denar.mk
 reklami.daily.mk
 reklami.gbccom.com.mk
 relay-mk.ads.httpool.com
+rtb.mfadsrvr.com
 s2blosh.com
 serving-sys.com
+script.dotmetrics.net
 smartadserver.com
 static.doubleclick.net
 stats.l.doubleclick.net
 www.storygize.net
 storygize.net
 taboola.com
+tags.bluekai.com
+trc.taboola.com
 vdads2019.com
 vionservices.com
 x.bidswitch.net
