@@ -129,3 +129,4 @@ cdn.mgid.com
 cm.marketgid.com
 video-cdn.marketgid.com
 www.marketgid.com
+mas.nth.ch
