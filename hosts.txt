@@ -6,6 +6,12 @@
 # 
 10bet.com
 acadv.net
+pixel.onaudience.com
+st-n.ads1-adnow.com
+st-n.ads5-adnow.com
+st-n.ads4-adnow.com
+st-n.ads3-adnow.com
+st-n.ads2-adnow.com
 adexchange.mk
 stats.g.doubleclick.net
 adform.net
