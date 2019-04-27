@@ -5,7 +5,6 @@
 #  You may freely use, copy, and redistribute this blacklist in any manner you like.
 # 
 10bet.com
-a.sitel.com.mk
 acadv.net
 adexchange.mk
 adform.net
@@ -93,6 +92,7 @@ r.denar.mk
 reklami.daily.mk
 reklami.gbccom.com.mk
 relay-mk.ads.httpool.com
+revcontent.com
 revive.futura.net.mk
 rtb.mfadsrvr.com
 s2blosh.com
@@ -112,8 +112,5 @@ vionservices.com
 x.bidswitch.net
 www.ads.it.mk
 www.midas-network.com
-#
-#  Wildcard Blocking
-#
-(^|\.)mgid\.com$
-(^|\.)revcontent\.com$
+mgid.com
+marketgid.com
