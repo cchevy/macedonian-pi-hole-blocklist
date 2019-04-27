@@ -85,6 +85,7 @@ r.denar.mk
 reklami.daily.mk
 reklami.gbccom.com.mk
 relay-mk.ads.httpool.com
+res.cloudinary.com
 rtb.mfadsrvr.com
 s2blosh.com
 serving-sys.com
