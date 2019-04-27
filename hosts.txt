@@ -5,7 +5,12 @@
 #  You may freely use, copy, and redistribute this blacklist in any manner you like.
 # 
 10bet.com
+ad.mox.tv
 2mdn.net
+ads.pubmatic.com
+s.pubmine.com
+gads.pubmatic.com
+gamk.hit.gemius.pl
 acadv.net
 ad.doubleclick.net
 ad.httpool.com
@@ -35,7 +40,14 @@ ads.mkd.mk
 ads.novatv.mk
 ads.press24.mk
 ads.programattik.com
+c.adskeeper.co.uk
+servicer.adskeeper.co.uk
+jsc.adskeeper.co.uk
+cm.adskeeper.co.uk
+s-img.adskeeper.co.uk
+cdn.adskeeper.co.uk
 ads.skopjeinfo.mk
+a.sitel.com.mk
 ads.sport1.mk
 ads.sportclub.mk
 ads.stankov.me
@@ -127,7 +139,7 @@ script.dotmetrics.net
 securepubads.g.doubleclick.net
 servicer.mgid.com
 serving-sys.com
-smartadserver.com
+smartadserver.com	
 st-n.ads1-adnow.com
 st-n.ads2-adnow.com
 st-n.ads3-adnow.com
@@ -138,6 +150,8 @@ static-doubleclick-net.l.google.com
 static.doubleclick.net
 stats.g.doubleclick.net
 stats.l.doubleclick.net
+pagead46.l.doubleclick.net
+ads.nexage.com
 storygize.net
 taboola.com
 tags.bluekai.com
@@ -153,3 +167,4 @@ www.marketgid.com
 www.midas-network.com
 www.storygize.net
 x.bidswitch.net
+www3.smartadserver.com
