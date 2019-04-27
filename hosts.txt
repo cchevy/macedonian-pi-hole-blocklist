@@ -114,3 +114,13 @@ www.ads.it.mk
 www.midas-network.com
 mgid.com
 marketgid.com
+cm.revcontent.com
+cdn.revcontent.com
+img.revcontent.com
+trends.revcontent.com
+c.mgid.com
+servicer.mgid.com
+s-img.mgid.com
+cm.mgid.com
+jsc.mgid.com
+cdn.mgid.com
