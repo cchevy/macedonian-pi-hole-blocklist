@@ -18,6 +18,7 @@ ads.365.mk
 ads.com.mk
 ads.crnobelo.mk
 ads.deca.mk
+ad.doubleclick.net
 ads.ekipa.mk
 ads.emedia.mk
 ads.faktor.mk
