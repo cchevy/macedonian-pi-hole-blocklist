@@ -65,6 +65,7 @@ marketing.centar.com.mk
 mgid.com
 midas-network.com
 mkkeepaneyegde.adocean.pl
+mozzart.ideaplus.mk
 net-ads.mk
 panel.ads.com.mk
 r.denar.mk
