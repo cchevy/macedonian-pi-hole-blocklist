@@ -112,3 +112,8 @@ vionservices.com
 x.bidswitch.net
 www.ads.it.mk
 www.midas-network.com
+#
+#  Wildcard Blocking
+#
+(^|\.)mgid\.com$
+(^|\.)revcontent\.com$
