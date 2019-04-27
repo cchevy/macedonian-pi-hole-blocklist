@@ -124,3 +124,6 @@ s-img.mgid.com
 cm.mgid.com
 jsc.mgid.com
 cdn.mgid.com
+cm.marketgid.com
+video-cdn.marketgid.com
+www.marketgid.com
