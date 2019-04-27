@@ -7,6 +7,7 @@
 10bet.com
 acadv.net
 adexchange.mk
+stats.g.doubleclick.net
 adform.net
 adservice.google.pl
 adservice.google.mk
@@ -32,6 +33,8 @@ ads.it.mk
 ads.kafepauza.mk
 ads.kajgana.com
 ads.kanal77.mk
+securepubads.g.doubleclick.net
+s1.adform.net
 ads.lokalno.mk
 ads.mkd.mk
 ads.novatv.mk
@@ -123,6 +126,7 @@ cdn.revcontent.com
 img.revcontent.com
 trends.revcontent.com
 c.mgid.com
+track.adform.net
 servicer.mgid.com
 s-img.mgid.com
 cm.mgid.com
