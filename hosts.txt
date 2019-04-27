@@ -10,6 +10,7 @@ pixel.onaudience.com
 st-n.ads1-adnow.com
 st-n.ads5-adnow.com
 st-n.ads4-adnow.com
+hipersushiads.com
 st-n.ads3-adnow.com
 st-n.ads2-adnow.com
 adexchange.mk
@@ -33,8 +34,10 @@ ads.fakulteti.mk
 ads.fashionel.mk
 ads.fokus.mk
 ads.foxit.mk
+st-n.gsasd.info
 ads.grouper.mk
 ad.httpool.com
+ads.exdynsrv.com
 ads.it.mk
 ads.kafepauza.mk
 ads.kajgana.com
@@ -96,7 +99,12 @@ mgid.com
 midas-network.com
 mkkeepaneyegde.adocean.pl
 mozzart.ideaplus.mk
+n.ads-adnow.com
+n.ads1-adnow.com
+n.ads2-adnow.com
 n.ads3-adnow.com
+n.ads4-adnow.com
+n.ads5-adnow.com
 net-ads.mk
 onesignal.com
 panel.ads.com.mk
