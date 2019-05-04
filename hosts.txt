@@ -1,4 +1,4 @@
-#  Last Update: May 03, 2019 10:30 CET 
+#  Last Update: May 04, 2019 10:43 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -27,6 +27,7 @@ ads.fashionel.mk
 ads.fokus.mk
 ads.foxit.mk
 ads.grouper.mk
+ads.idividi.com.mk
 ads.it.mk
 ads.kafepauza.mk
 ads.kajgana.com
