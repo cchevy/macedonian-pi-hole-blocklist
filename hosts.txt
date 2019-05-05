@@ -1,4 +1,4 @@
-#  Last Update: May 04, 2019 11:05 CET 
+#  Last Update: May 05, 2019 13:34 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -74,6 +74,7 @@ cm.mgid.com
 cm.revcontent.com
 coinmedia.tk
 d.agkn.com
+display.nativemedia.rs
 doubleclick.net
 ds-aksb-a.akamaihd.net
 eadsrv.com
@@ -117,6 +118,7 @@ n.ads2-adnow.com
 n.ads3-adnow.com
 n.ads4-adnow.com
 n.ads5-adnow.com
+nativemedia.rs
 net-ads.mk
 onesignal.com
 pagead46.l.doubleclick.net
