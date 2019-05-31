@@ -83,7 +83,6 @@ easyplatform.com
 gads.pubmatic.com
 gamk.hit.gemius.pl
 googleads.g.doubleclick.net
-googleadservices.com
 googlesyndication.com
 hipersushiads.com
 httpool.com
