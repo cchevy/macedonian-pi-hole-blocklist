@@ -155,9 +155,11 @@ static-doubleclick-net.l.google.com
 static.doubleclick.net
 stats.g.doubleclick.net
 stats.l.doubleclick.net
+static.off.mk
 storygize.net
 taboola.com
 tags.bluekai.com
+toboads.com
 track.adform.net
 trc.taboola.com
 trends.revcontent.com
