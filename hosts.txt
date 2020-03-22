@@ -1,4 +1,4 @@
-#  Last Update: Mar 22, 2020 20:38 CET 
+#  Last Update: Mar 22, 2020 20:50 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -8,6 +8,8 @@
 2mdn.net
 a.sitel.com.mk
 acadv.net
+adxbid.info
+adxpremium.services
 ad.doubleclick.net
 ad.httpool.com
 ad.mox.tv
