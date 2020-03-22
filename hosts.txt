@@ -1,4 +1,4 @@
-#  Last Update: Feb 02, 2020 13:34 CET 
+#  Last Update: Mar 22, 2020 20:38 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -14,6 +14,7 @@ ad.mox.tv
 adexchange.mk
 adocean.pl
 ads.1cm.com.mk
+ads.360stepeni.mk
 ads.365.mk
 ads.com.mk
 ads.crnobelo.mk
