@@ -1,4 +1,4 @@
-#  Last Update: Mar 22, 2020 20:50 CET 
+#  Last Update: Mar 22, 2020 20:55 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -39,6 +39,7 @@ ads.lokalno.mk
 ads.mkd.mk
 ads.nexage.com
 ads.novatv.mk
+ads.plusinfo.mk
 ads.press24.mk
 ads.programattik.com
 ads.pubmatic.com
@@ -49,6 +50,7 @@ ads.stankov.me
 ads.studenti.mk
 ads.tocka.com.mk
 ads.trendolend.mk
+ads.vionservices.com
 ads.vrabotuvanje.com.mk
 adsdms.mk
 adserver.mk
