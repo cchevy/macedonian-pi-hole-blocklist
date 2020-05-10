@@ -1,4 +1,4 @@
-#  Last Update: Mar 22, 2020 20:55 CET 
+#  Last Update: May 10, 2020 21:30 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -134,6 +134,7 @@ r.denar.mk
 reklami.daily.mk
 reklami.gbccom.com.mk
 relay-mk.ads.httpool.com
+rev.balkanmediagroup.com
 revcontent.com
 revive.futura.net.mk
 rtb.mfadsrvr.com
@@ -164,6 +165,7 @@ static.off.mk
 storygize.net
 taboola.com
 tags.bluekai.com
+tas-mk.toboads.com
 toboads.com
 track.adform.net
 trc.taboola.com
