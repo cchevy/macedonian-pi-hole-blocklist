@@ -1,4 +1,4 @@
-#  Last Update: May 10, 2020 21:30 CET 
+#  Last Update: May 10, 2020 21:36 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -109,6 +109,7 @@ load77.exelator.com
 loadm.exelator.com
 marketgid.com
 marketing.centar.com.mk
+marketing.utrinskivesnik.mk
 mas.nth.ch
 match.adsrvr.org
 match.taboola.com
