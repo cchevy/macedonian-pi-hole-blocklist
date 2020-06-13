@@ -1,4 +1,4 @@
-#  Last Update: May 10, 2020 21:36 CET 
+#  Last Update: June 13, 2020 21:23 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -172,6 +172,7 @@ toboads.com
 track.adform.net
 trc.taboola.com
 trends.revcontent.com
+tv21macedonia.xyz
 vdads2019.com
 video-cdn.marketgid.com
 vionservices.com
