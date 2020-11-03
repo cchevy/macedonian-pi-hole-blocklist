@@ -8,4 +8,4 @@ If you want to contribute domains to this list, you're welcome to open a PR.
 
 Macedonian Blocklist URL: https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
 
-The Big Blocklist Collection: https://dbl.oisd.nl
+Included in the mega OISD list: https://oisd.nl/?p=inc
