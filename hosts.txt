@@ -1,4 +1,4 @@
-#  Last Update: January 11, 2022 19:39 CET 
+#  Last Update: January 11, 2022 19:54 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -40,14 +40,17 @@ ads.kafepauza.mk
 ads.kajgana.com
 ads.kanal77.mk
 ads.lokalno.mk
+ads.makfudbal.mk
 ads.mkd.mk
 ads.nexage.com
 ads.novatv.mk
+ads.pari.com.mk
 ads.plusinfo.mk
 ads.press24.mk
 ads.programattik.com
 ads.pubmatic.com
 ads.24rakomet.mk
+ads.ringaraja.net
 ads.skopjeinfo.mk
 ads.sportm.mk
 ads.sport1.mk
@@ -185,6 +188,7 @@ tv21macedonia.xyz
 vdads2019.com
 video-cdn.marketgid.com
 vionservices.com
+vmads.eu
 www.ads.it.mk
 www.bid.aero
 www.marketgid.com
