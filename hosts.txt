@@ -1,4 +1,4 @@
-#  Last Update: January 11, 2020 19:23 CET 
+#  Last Update: January 11, 2022 19:29 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
