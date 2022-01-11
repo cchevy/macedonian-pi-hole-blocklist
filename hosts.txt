@@ -1,4 +1,4 @@
-#  Last Update: January 11, 2022 19:29 CET 
+#  Last Update: January 11, 2022 19:39 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -52,6 +52,7 @@ ads.skopjeinfo.mk
 ads.sportm.mk
 ads.sport1.mk
 ads.sportclub.mk
+ads.sportmedia.mk
 ads.stankov.me
 ads.studenti.mk
 ads.tocka.com.mk
@@ -140,6 +141,7 @@ pixel.onaudience.com
 pixel.quantserve.com
 pubpress.net
 r.denar.mk
+reklami.24fudbal.mk
 reklami.daily.mk
 reklami.gbccom.com.mk
 relay-mk.ads.httpool.com
