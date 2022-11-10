@@ -26,6 +26,7 @@ ads.crnobelo.mk
 ads.deca.mk
 ads.ekipa.mk
 ads.emedia.mk
+ads.epp.mk
 ads.exdynsrv.com
 ads.faktor.mk
 ads.fakulteti.mk
@@ -70,6 +71,7 @@ ads.vrabotuvanje.com.mk
 adsdms.mk
 adserver.mk
 adserver.neotel.mk
+adserver.piksel.mk
 adservice.google.com
 adservice.google.mk
 advertiseserve.com
