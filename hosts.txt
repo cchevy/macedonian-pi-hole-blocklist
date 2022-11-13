@@ -1,4 +1,4 @@
-#  Last Update: Nov 10, 2022 15:04 CET 
+#  Last Update: Nov 13, 2022 13:03 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -109,6 +109,7 @@ googlesyndication.com
 hipersushiads.com
 httpool.com
 httpool.com.mk
+iab.mk
 ib.adnxs.com
 images.taboola.com
 img.revcontent.com
