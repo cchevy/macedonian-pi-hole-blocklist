@@ -1,4 +1,4 @@
-#  Last Update: Nov 13, 2022 13:03 CET 
+#  Last Update: Feb 03, 2023 19:03 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -21,6 +21,7 @@ adocean.pl
 ads.1cm.com.mk
 ads.360stepeni.mk
 ads.365.mk
+ads.avtoplus.mk
 ads.com.mk
 ads.crnobelo.mk
 ads.deca.mk
@@ -44,6 +45,7 @@ ads.kumanovonews.com
 ads.libertas.mk
 ads.lokalno.mk
 ads.makfudbal.mk
+adserver.mia.mk
 ads.mkd.mk
 ads.mms.mk
 ads.nexage.com
