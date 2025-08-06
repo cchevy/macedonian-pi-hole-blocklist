@@ -1,4 +1,4 @@
-#  Last Update: Jan 29, 2024 22:22 CET 
+#  Last Update: Aug 06, 2025 10:46 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -117,6 +117,7 @@ iab.mk
 ib.adnxs.com
 images.taboola.com
 img.revcontent.com
+ads.inovativnost.mk
 ireklama.mk
 jsc.adskeeper.co.uk
 jsc.mgid.com
