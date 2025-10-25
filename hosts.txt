@@ -1,4 +1,4 @@
-#  Last Update: Aug 06, 2025 10:46 CET 
+#  Last Update: Oct 25, 2025 19:16 CET 
 #  
 #  Blacklist compiled by @cchevymk
 #  
@@ -71,6 +71,7 @@ ads.telma.com.mk
 ads.tocka.com.mk
 ads.trendolend.mk
 ads.tv21.tv
+ads.vecer.mk
 ads.vecer.press
 ads.vionservices.com
 ads.vrabotuvanje.com.mk
