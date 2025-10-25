@@ -35,6 +35,7 @@ ads.fakulteti.mk
 ads.fashionel.mk
 ads.fokus.mk
 ads.foxit.mk
+ads.glamur.mk
 ads.gol.mk
 ads.gostivarpress.mk
 ads.grouper.mk
